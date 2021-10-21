@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\WhackamoleSFML.dir/objects.a
+C:\mingw32\bin\ar.exe cr CMakeFiles\WhackamoleSFML.dir/objects.a @CMakeFiles\WhackamoleSFML.dir\objects1.rsp
+C:\mingw32\bin\g++.exe -g  -static -Wl,--whole-archive CMakeFiles\WhackamoleSFML.dir/objects.a -Wl,--no-whole-archive  -o WhackamoleSFML.exe -Wl,--out-implib,libWhackamoleSFML.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\WhackamoleSFML.dir\linklibs.rsp

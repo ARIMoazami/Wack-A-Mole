@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="WhackamoleSFML" targetName="WhackamoleSFML" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6b2e090-3eb5-4ad7-a006-af44f8e0f50a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kETi0FR1ep9HzTpmBzIsSha5oQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../space-invaders-2020-mooseman48" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WhackamoleSFML" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WhackamoleSFML" TARGET_NAME="WhackamoleSFML" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="WhackamoleSFML" RUN_TARGET_NAME="WhackamoleSFML">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6b2e090-3eb5-4ad7-a006-af44f8e0f50a" name="Default Changelist" comment="" />
+      <created>1605264873414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605264873414</updated>
+      <workItem from="1605264874523" duration="5985000" />
+      <workItem from="1605293694397" duration="608000" />
+      <workItem from="1605308157318" duration="1430000" />
+      <workItem from="1605868565206" duration="6920000" />
+      <workItem from="1605887312686" duration="4010000" />
+      <workItem from="1605894673272" duration="30000" />
+      <workItem from="1605897965952" duration="772000" />
+      <workItem from="1606147899720" duration="10710000" />
+      <workItem from="1606475713735" duration="8192000" />
+      <workItem from="1606581315259" duration="21000" />
+      <workItem from="1606598491556" duration="2172000" />
+      <workItem from="1606648787446" duration="9023000" />
+      <workItem from="1606677628439" duration="2895000" />
+      <workItem from="1606818758611" duration="17785000" />
+      <workItem from="1606909375449" duration="48000" />
+      <workItem from="1606909433080" duration="1555000" />
+      <workItem from="1606939118411" duration="1300000" />
+      <workItem from="1606943292274" duration="829000" />
+      <workItem from="1607681803876" duration="32000" />
+      <workItem from="1607687241803" duration="3665000" />
+      <workItem from="1608291536411" duration="108000" />
+      <workItem from="1608997851663" duration="2285000" />
+      <workItem from="1609184639146" duration="2087000" />
+      <workItem from="1609252812281" duration="1199000" />
+      <workItem from="1609331728718" duration="1081000" />
+      <workItem from="1609798829302" duration="882000" />
+      <workItem from="1610287643951" duration="1365000" />
+      <workItem from="1616165153986" duration="29000" />
+      <workItem from="1619517224990" duration="1301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1619525169852">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-392.-1080.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1619525169852" />
+  </component>
+</project>
